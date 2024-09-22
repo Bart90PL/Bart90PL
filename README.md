@@ -53,6 +53,6 @@ Drop me a message:
   <a href="https://www.linkedin.com/in/bartlomiejniziolek/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-### Github stats
+### Github stats 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bart90PL&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
