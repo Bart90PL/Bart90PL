@@ -19,6 +19,7 @@ Experienced QA Automation Engineer with seven years of hands-on expertise. Devel
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
+  <img alt="WebDriverIO" src="https://img.shields.io/badge/WebDriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=red" />
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
@@ -26,6 +27,7 @@ Experienced QA Automation Engineer with seven years of hands-on expertise. Devel
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azure-pipelines&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white&style=for-the-badge" />
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
