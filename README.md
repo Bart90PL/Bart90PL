@@ -29,6 +29,7 @@ Experienced QA Automation Engineer with seven years of hands-on expertise. Devel
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white&style=for-the-badge" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=Terraform&logoColor=white&style=for-the-badge" />
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
