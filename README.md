@@ -39,6 +39,7 @@ Experienced QA Automation Engineer with seven years of hands-on expertise. Devel
   <img alt="Azure Test Plans" src="https://img.shields.io/badge/Azure%20Test%20Plans-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img alt="TestLink" src="https://img.shields.io/badge/TestLink-000000?style=for-the-badge&logo=testing-library&logoColor=white" />
   <img alt="VSC" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="JetBrains Aqua" src="https://img.shields.io/badge/JetBrains_Aqua-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="MSCopilot" src="https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=azure-devops&logoColor=white)" />
